@@ -136,8 +136,11 @@ if (PYTHONLIBS_FOUND)
     set(python_tests
       Angle_TEST
       GaussMarkovProcess_TEST
+      Line2_TEST
       python_TEST
       Rand_TEST
+      SignalStats_TEST
+      Temperature_TEST
       Vector2_TEST
       Vector3_TEST
       Vector4_TEST
