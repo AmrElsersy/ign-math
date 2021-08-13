@@ -7,4 +7,5 @@
 %include ../Vector3.i
 %include ../Vector4.i
 %include ../Line2.i
+%include ../Line3.i
 %include ../SignalStats.i

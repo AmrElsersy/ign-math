@@ -137,6 +137,7 @@ if (PYTHONLIBS_FOUND)
       Angle_TEST
       GaussMarkovProcess_TEST
       Line2_TEST
+      Line3_TEST
       python_TEST
       Rand_TEST
       SignalStats_TEST
